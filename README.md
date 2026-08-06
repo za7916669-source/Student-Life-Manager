@@ -20,6 +20,4 @@ A console-based productivity application written in C++.
 
 ## Current Status
 
-Version 3 Complete
-
-Currently developing Version 4.
+Version 3 is stable and Version 4 is currently under development.
