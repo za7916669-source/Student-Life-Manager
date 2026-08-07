@@ -1,0 +1,17 @@
+# Executables
+*.exe
+
+# VS Code
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.cpp
+
+# Object files
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Windows
+Thumbs.db
